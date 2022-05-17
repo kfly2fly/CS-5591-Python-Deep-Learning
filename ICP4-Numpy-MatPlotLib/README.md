@@ -9,12 +9,12 @@ Email: kpfxn8@umsystem.edu
 ```
 Partner Name: Jasmine Thai  
 Partner Email: jasmine.thai@mail.umkc.edu
-Partner ICP-Link:
+Partner ICP-Link: https://github.com/UMKC-APL-PythonDeepLearing/icp_4-JasmineThai-hub
 ```
 ### SUBMIT PYTHON NOTEBOOK FILE (ipynb file)
 
 ```
-Video Link: (if not submitting in class)
+Video Link: https://youtu.be/NU2y8SZn48o
 ```
 <br/>
  
