@@ -1,0 +1,9 @@
+Word_Count:
+ 
+Python Course 
+Deep Learning Course 
+Python: 10
+Course: 20
+Deep: 10
+Learning: 10
+: 1
