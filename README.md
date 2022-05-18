@@ -1,4 +1,4 @@
-# Python and Deep Learning
+# Python Deep Learning
 
 This repo is a place where source code and documentation can be added for CSEE-5590-001 Python Deep Learning. 
 
